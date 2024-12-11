@@ -1,10 +1,12 @@
 # CaloCare-MachineLearning
 # About the model :
   •	Convolutional Neural Network (CNN) for Image Recognition:
-  CaloCare employs a Convolutional Neural Network (CNN) for image classification, harnessing its capability to extract intricate hierarchical features from images. CNNs excel in identifying complex patterns, such as textures and visual details, making them ideal for recognizing various Padang food dishes. Within CaloCare, the CNN model is meticulously trained to detect unique characteristics of Padang cuisine, allowing users to capture and identify dishes with precision. By leveraging CNN technology, CaloCare ensures a reliable and efficient recognition process, providing users with an intuitive and enjoyable way to explore the rich variety of Padang food.
+
+CaloCare employs a Convolutional Neural Network (CNN) for image classification, harnessing its capability to extract intricate hierarchical features from images. CNNs excel in identifying complex patterns, such as textures and visual details, making them ideal for recognizing various Padang food dishes. Within CaloCare, the CNN model is meticulously trained to detect unique characteristics of Padang cuisine, allowing users to capture and identify dishes with precision. By leveraging CNN technology, CaloCare ensures a reliable and efficient recognition process, providing users with an intuitive and enjoyable way to explore the rich variety of Padang food.
   
   •	Nutritional Evaluation Model: 
-  CaloCare integrates a Nutritional Evaluation Model powered by regression analysis to provide a healthiness score for each dish. This model assigns a score on a 1 to 5 scale, where 1 indicates less healthy and 5 represents highly healthy options. The evaluation considers key nutritional factors such as sugar content, fat levels, calorie count, and other relevant metrics. The model is trained using hyperparameter optimization to ensure accurate and reliable predictions. By analyzing these details, CaloCare empowers users to make informed dietary choices, combining the richness of Padang cuisine with health-conscious insights for a balanced and enjoyable dining experience.
+
+CaloCare integrates a Nutritional Evaluation Model powered by regression analysis to provide a healthiness score for each dish. This model assigns a score on a 1 to 5 scale, where 1 indicates less healthy and 5 represents highly healthy options. The evaluation considers key nutritional factors such as sugar content, fat levels, calorie count, and other relevant metrics. The model is trained using hyperparameter optimization to ensure accurate and reliable predictions. By analyzing these details, CaloCare empowers users to make informed dietary choices, combining the richness of Padang cuisine with health-conscious insights for a balanced and enjoyable dining experience.
 
 # ML team responsibilities : 
 
